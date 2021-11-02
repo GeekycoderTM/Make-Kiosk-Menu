@@ -7,7 +7,7 @@
 import choice_menu
 
 # 조건
-# 사용자는 최대로 버거1개, 사이드1개, 음료1개 주문할 수 있습니다.
+# 사용자는 최대로 버거 1개, 사이드 1개, 음료 1개 주문할 수 있습니다.
 database = []  #initial menu databse and order number
 menu_id = 1    # 초기 메뉴 데이터베이스 및 주문 번호
 
